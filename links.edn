@@ -1,0 +1,6 @@
+{:personalization "https://developer.spotify.com/documentation/web-api/reference-beta/#category-personalization"
+ :api-tutorial "https://developer.spotify.com/documentation/web-api/quick-start/"
+ :systemic "https://github.com/teknql/systemic"
+ :clj-spotify "https://github.com/blmstrm/clj-spotify"
+ :oauth-code "https://github.com/blmstrm/clj-spotify/blob/master/dev-resources/user.clj"
+ :oauth-is-easy "http://leonid.shevtsov.me/post/oauth2-is-easy/"}

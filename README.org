@@ -1,0 +1,3 @@
+#+TITLE: Ear
+
+Just a personal project for Spotify interaction. Could be fun to analyze my music and do smarter things in bulk than you can in the client.
