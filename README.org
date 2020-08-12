@@ -1,3 +1,7 @@
 #+TITLE: Ear
 
 Just a personal project for Spotify interaction. Could be fun to analyze my music and do smarter things in bulk than you can in the client.
+
+* Next Steps
+** [ ] get audio features for ALL of my liked songs and start throwing down on some sorting and filtering and queueing
+** [ ] extract this analysis into functions and playlist creation
